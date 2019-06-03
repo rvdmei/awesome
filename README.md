@@ -12,6 +12,7 @@ Every day people create and share awesome things, this list is just a sample of 
 - [Books](#books)
 - [Best Practices](#best-practices)
 - [Opinions](#opinions)
+- [Privacy](#privacy)
 - [Productivity](#productivity)
 - [Security](#security)
 - [Software Development](#software-development)
@@ -152,5 +153,7 @@ Every day people create and share awesome things, this list is just a sample of 
 - [Matrix](https://matrix.org/) - An open network for secure, decentralized communication.
 - [WireGuard<sup>®</sup>](https://www.wireguard.com/) - Fast, modern, secure VPN tunnel.
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system.
+
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
