@@ -24,16 +24,27 @@ Every day people create and share awesome things, this list is just a sample of 
     - [Programming Languages](#programming-languages)
 
 ## Art
-- [Hyper-Reality](http://theawesomer.com/hyper-reality/368516/) - Think technology has taken over your life?
+- [Hyper-Reality] ([video][hyper-vimeo])- Think technology has taken over your life?
+
+[Hyper-Reality]: http://hyper-reality.co/
+[hyper-vimeo]: https://vimeo.com/166807261
 
 ## Books
-- [Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) by  Nicole Forsgren, Jez Humble, Gene Kim - Accelerate measures software delivery performance—and what drives it—using four years of groundbreaking research and rigorous statistical methods.
-- [Free as in Freedom](https://en.wikipedia.org/wiki/Free_as_in_Freedom) by Sam Williams - A free book licensed under the GNU Free Documentation License about the life of Richard Stallman.
-- [The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) by Eric S. Raymond
-- [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Members of the SRE team explain how their engagement with the entire software lifecycle has enabled Google to build, deploy, monitor, and maintain some of the largest software systems in the world.
-- [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - The Site Reliability Workbook is the hands-on companion to the bestselling Site Reliability Engineering book and uses concrete examples to show how to put SRE principles and practices to work.
-- [Technomanifestos: Visions of the Information Revolutionaries](https://www.amazon.com/exec/obidos/ASIN/1587991039) by Adam Brate - The story of the information revolution as it was shaped and imagined in the writings of its most inspired revolutionaries.
-- [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) by Gene Kim - A novel about IT, DevOps, and helping your business win.
+- [Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations][accelerate] by  Nicole Forsgren, Jez Humble, Gene Kim - Accelerate measures software delivery performance—and what drives it—using four years of groundbreaking research and rigorous statistical methods.
+- [Free as in Freedom][free-as-in-freedom] by Sam Williams - A free book licensed under the GNU Free Documentation License about the life of Richard Stallman.
+- [The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary][catb] by Eric S. Raymond
+- [Site Reliability Engineering][sre-book] - Members of the SRE team explain how their engagement with the entire software lifecycle has enabled Google to build, deploy, monitor, and maintain some of the largest software systems in the world.
+- [Site Reliability Workbook][sre-workbook] - The Site Reliability Workbook is the hands-on companion to the bestselling Site Reliability Engineering book and uses concrete examples to show how to put SRE principles and practices to work.
+- [Technomanifestos: Visions of the Information Revolutionaries][technomanifestos] by Adam Brate - The story of the information revolution as it was shaped and imagined in the writings of its most inspired revolutionaries.
+- [The Phoenix Project][phoenix-project] by Gene Kim - A novel about IT, DevOps, and helping your business win.
+
+[accelerate]: https://itrevolution.com/book/accelerate/
+[free-as-in-freedom]: https://en.wikipedia.org/wiki/Free_as_in_Freedom
+[catb]: https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+[sre-book]: https://landing.google.com/sre/sre-book/toc/index.html
+[sre-workbook]: https://landing.google.com/sre/workbook/toc/
+[technomanifestos]: https://www.amazon.com/exec/obidos/ASIN/1587991039
+[phoenix-project]: https://itrevolution.com/book/the-phoenix-project/
 
 ## Best Practices
 - [Distributing Authority](https://www.mountaingoatsoftware.com/blog/two-types-of-authority-leaders-must-give-to-self-organizing-teams) - What does it mean to say an agile team is self-organizing? And is that even the right term? Some people say teams are self-managing. To understand which of those terms might be better, let’s consider four levels of authority teams can assume.
@@ -54,23 +65,37 @@ Every day people create and share awesome things, this list is just a sample of 
 - [Three-day no-meeting schedule for engineers](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567) - Pinterests product engineering team started experimenting with a three-day no-meeting schedule for individual contributors on our teams.
 
 ## Productivity
-- [Guide to Deep Work](https://doist.com/blog/complete-guide-to-deep-work/) - Very detailed blog post by Fadeke Adegbuyi about deep work
-- [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-- [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
-- [Joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [Guide to Deep Work][deep-work] - Very detailed blog post by Fadeke Adegbuyi about deep work
+- [Taskbook] - Tasks, boards & notes for the command-line habitat.
+- [Taskwarrior] - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
+- [Joplin] - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+
+[deep-work]: https://doist.com/blog/complete-guide-to-deep-work
+[joplin]: https://github.com/laurent22/joplin
+[taskbook]: https://github.com/klaussinani/taskbook
+[taskwarrior]: https://taskwarrior.org/
 
 ## Software Development
 
 ### Analytics and Machine Learning
-- [Faust](https://github.com/robinhood/faust) - Stream processing for Python
+- [Faust] - Stream processing for Python
+
+[faust]: https://github.com/robinhood/faust
 
 ### Backend
-- [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
-- [gRPC](https://grpc.io/) - A high performance, open-source universal RPC framework.
-- [Mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [PostgreSQL Exercises](https://pgexercises.com/) - PGExercises provides a series of questions and explanations built on a single, simple dataset. It's designed for use as a partner to a good book or Postgres' excellent documentation.
-- [Websocketd](https://github.com/joewalnes/websocketd) - Small command-line tool that wraps existing command-line interface programs, and allow access via a WebSocket.
-- [WebSockets - A Conceptual Deep-Dive](https://www.ably.io/concepts/websockets) - *Documentation* - Deep-dive on the WebSocket protocol.
+- [FastAPI] - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [gRPC] - A high performance, open-source universal RPC framework.
+- [Mkcert] - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [PostgreSQL Exercises][pgexercises] - PGExercises provides a series of questions and explanations built on a single, simple dataset. It's designed for use as a partner to a good book or Postgres' excellent documentation.
+- [Websocketd] - Small command-line tool that wraps existing command-line interface programs, and allow access via a WebSocket.
+- [WebSockets - A Conceptual Deep-Dive][ws-concepts] - *Documentation* - Deep-dive on the WebSocket protocol.
+
+[fastapi]: https://github.com/tiangolo/fastapi
+[grpc]: https://grpc.io/
+[mkcert]: https://github.com/FiloSottile/mkcert
+[pgexercises]: https://pgexercises.com/
+[Websocketd]: https://github.com/joewalnes/websocketd
+[ws-concepts]: https://www.ably.io/concepts/websockets
 
 ### Cloud Native
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Firecracker is an open source virtualization technology created by Amazon that is purpose-built for creating and managing secure, multi-tenant container and function-based services.
@@ -97,13 +122,21 @@ Every day people create and share awesome things, this list is just a sample of 
     - [Vuetify](https://vuetifyjs.com/en/) - Material Design Component Framework for Vue
 
 ### Programming Languages
-- [Golang](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
-    - [Awesome Go](https://github.com/avelino/awesome-go#readme)
-- [Python](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
-    - [Awesome Python](https://github.com/vinta/awesome-python#readme)
-    - [Astrisks in Python](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them) - What they are and how to use them.
-    - [Built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/) - Which built-ins should you know about?
-- [Ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
+- [Golang] - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+    - [Awesome Go][awesome-go]
+- [Python] - Python is a programming language that lets you work quickly and integrate systems more effectively.
+    - [Awesome Python][awesome-python]
+    - [Astrisks in Python][astrisks-in-python] - What they are and how to use them.
+    - [Built-ins worth learning][learn-python-builtins] - Which built-ins should you know about?
+- [Ruby] - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
+
+[golang]: https://golang.org/
+[awesome-go]: https://github.com/avelino/awesome-go#readme
+[python]: https://www.python.org/
+[awesome-python]: https://github.com/vinta/awesome-python#readme
+[ruby]: https://www.ruby-lang.org/en/
+[astrisks-in-python]: http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them
+[learn-python-builtins]: https://treyhunner.com/2019/05/python-builtins-worth-learning/
 
 ## Security
 - [BoringTun](https://github.com/cloudflare/boringtun) - Userspace WireGuard<sup>®</sup> implementation in Rust.
