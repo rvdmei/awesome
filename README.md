@@ -64,6 +64,11 @@ Every day people create and share awesome things, this list is just a sample of 
 - [Productivity](https://blog.samaltman.com/productivity) - Productivity tips by Sam Altman.
 - [Three-day no-meeting schedule for engineers](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567) - Pinterests product engineering team started experimenting with a three-day no-meeting schedule for individual contributors on our teams.
 
+## Privacy
+- [Pi-hole][pihole] - Network-wide ad blocking on your Raspberry Pi
+
+[pihole]: https://pi-hole.net/
+
 ## Productivity
 - [Guide to Deep Work][deep-work] - Very detailed blog post by Fadeke Adegbuyi about deep work
 - [Taskbook] - Tasks, boards & notes for the command-line habitat.
