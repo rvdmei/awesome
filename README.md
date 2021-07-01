@@ -105,11 +105,10 @@ Every day people create and share awesome things, this list is just a sample of 
 
 ### Cloud Native
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Firecracker is an open source virtualization technology created by Amazon that is purpose-built for creating and managing secure, multi-tenant container and function-based services.
+- [K3D](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [K3S](https://github.com/rancher/k3s) - Lightweight Kubernetes.
 - [K3OS](https://github.com/rancher/k3os) - Purpose built OS for Kubernetes, fully managed by Kubernetes.
 - [Kubernetes](https://kubernetes.io/) - Open-source system for automating deployment, scaling, and management of containerized applications.
-- [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
-    - [Running Kubernetes locally on Linux with Minikube](https://www.cncf.io/blog/2019/05/14/running-kubernetes-locally-on-linux-with-minikube-now-with-kubernetes-1-14-support/) - *Blog Post* - Local deployment option for Kubernetes on Linux, covering Minikube, the most popular community-built solution for running Kubernetes on a local machine.
 - [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 - [Spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker.
 
